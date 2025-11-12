@@ -1,0 +1,1 @@
+Place your master Entities.xlsx here (path: data/Entities.xlsx). This file is not included in the zip.
