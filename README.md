@@ -1,4 +1,4 @@
-# Entity Matcher (Updated)
+# Entity Matcher
 This is the updated Entity Matcher project with several bug fixes and improvements:
 - Robust column mapping and parsing in `core/database.py`
 - Identifier indexes for O(1) lookups
